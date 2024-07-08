@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Structure du projet
 ``` bash
 main.py
@@ -53,3 +54,6 @@ Pour les données dans input :
 =======
 # controle_ehpad_prod
 >>>>>>> fe0705bceccb142401b54cedca91b583d6082d5f
+=======
+# controle_ehpad_test
+>>>>>>> d17fe1e66d63ebd5f28dc2db085b71a48f913e5e
